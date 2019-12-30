@@ -1,0 +1,12 @@
+C:\Users\bate330\source\repos\mp3_player\mp3_player\bin\Debug\mp3_player.exe.config
+C:\Users\bate330\source\repos\mp3_player\mp3_player\bin\Debug\mp3_player.exe
+C:\Users\bate330\source\repos\mp3_player\mp3_player\bin\Debug\mp3_player.pdb
+C:\Users\bate330\source\repos\mp3_player\mp3_player\obj\Debug\mp3_manager.csprojAssemblyReference.cache
+C:\Users\bate330\source\repos\mp3_player\mp3_player\obj\Debug\mp3_player.Form1.resources
+C:\Users\bate330\source\repos\mp3_player\mp3_player\obj\Debug\mp3_player.Form2.resources
+C:\Users\bate330\source\repos\mp3_player\mp3_player\obj\Debug\mp3_player.Form3.resources
+C:\Users\bate330\source\repos\mp3_player\mp3_player\obj\Debug\mp3_player.Properties.Resources.resources
+C:\Users\bate330\source\repos\mp3_player\mp3_player\obj\Debug\mp3_manager.csproj.GenerateResource.cache
+C:\Users\bate330\source\repos\mp3_player\mp3_player\obj\Debug\mp3_manager.csproj.CoreCompileInputs.cache
+C:\Users\bate330\source\repos\mp3_player\mp3_player\obj\Debug\mp3_player.exe
+C:\Users\bate330\source\repos\mp3_player\mp3_player\obj\Debug\mp3_player.pdb
